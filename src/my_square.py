@@ -7,6 +7,7 @@ def my_square(y):
 print(my_square(42))
 
 def mysquare2(x):
+	""" a new way to square a number"""
 	return (x*x)
 
 print(my_square2(22))

@@ -10,4 +10,5 @@ def mysquare2(x):
 	""" a new way to square a number"""
 	return (x*x)
 
+#Print and test the function
 print(my_square2(22))
